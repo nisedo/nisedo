@@ -8,7 +8,9 @@
 <!-- [![nisedo Twitch](https://img.shields.io/badge/Twitch-6441A4?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/patrickalphac)-->
 <!-- This is using base64 encoded image. If you have a small image, you can upload the base64 version of it :D https://www.base64-image.de/ -->
 
-I'm a Smart Contract Auditor from France 🇫🇷, securing web3 one smart contract at a time 📝
+I'm a Smart Contract Auditor from France 🇫🇷
+
+Securing web3 one smart contract at a time 📝
 
 
 
