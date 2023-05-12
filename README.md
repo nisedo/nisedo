@@ -1,8 +1,9 @@
 <h2> Hi there 👋, I'm nisedo! </h2>
     
 
-[![nisedo Linktree](https://img.shields.io/badge/nisedo-Linktree-brightgreen)](https://linktr.ee/nisedo)
-[![nisedo Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nisedo/)
+[![nisedo Linktree](https://img.shields.io/badge/nisedo-Linktree-brightgreen)](https://linktr.ee/nisedo)<br>
+
+[![nisedo Linkedin](https://img.shields.io/badge/nisedo-Linktree-brightgreen?style=for-the-badge&logo=&logoColor=white)](https://www.linkedin.com/in/nisedo/)
 [![nisedo Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/nisedo_)
 [![nisedo StackOverflow](https://img.shields.io/badge/StackOverflow-F48024?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/16269961/nisedo)
 <!--[![nisedo YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/XXXXXXXXXXX)-->
