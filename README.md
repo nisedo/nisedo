@@ -8,7 +8,7 @@
 <!-- [![nisedo Twitch](https://img.shields.io/badge/Twitch-6441A4?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/patrickalphac)-->
 <!-- This is using base64 encoded image. If you have a small image, you can upload the base64 version of it :D https://www.base64-image.de/ -->
 
-I'm a Smart Contract Auditor from France, securing web3 one smart contract at a time.
+I'm a Smart Contract Auditor from France 🇫🇷, securing web3 one smart contract at a time 📝
 
 
 
@@ -17,7 +17,9 @@ I'm a Smart Contract Auditor from France, securing web3 one smart contract at a 
 [![nisedo's github stats](https://github-readme-stats.vercel.app/api?username=nisedo)](https://github.com/anuraghazra/github-readme-stats)
 
 
-### Stack Overflow & Stack Exchange Stats
+### Stack Overflow & Ethereum Stack Exchange Stats
 
 
-<a href="https://ethereum.stackexchange.com/users/120586/nisedo"><img src="https://stackoverflow.com/users/flair/16269961.png" width="208" height="58" alt="profile for nisedo on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for nisedo on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>
+<a href="https://stackoverflow.com/users/16269961/nisedo/"><img src="https://stackoverflow.com/users/flair/16269961.png" width="208" height="58" alt="profile for nisedo on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for nisedo on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>
+
+<a href="https://ethereum.stackexchange.com/users/120586/nisedo"><img src="https://ethereum.stackexchange.com/users/flair/120586.png" width="208" height="58" alt="profile for nisedo on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for nisedo on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>
