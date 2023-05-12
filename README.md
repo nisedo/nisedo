@@ -20,4 +20,4 @@ I'm a Smart Contract Auditor from France, securing web3 one smart contract at a 
 ### Stack Overflow & Stack Exchange Stats
 
 
-<a href="https://ethereum.stackexchange.com/users/120586/nisedo"><img src="https://stackexchange.com/users/flair/16564631.png" width="208" height="58" alt="profile for nisedo on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for nisedo on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>
+<a href="https://ethereum.stackexchange.com/users/120586/nisedo"><img src="https://stackoverflow.com/users/flair/16269961.png" width="208" height="58" alt="profile for nisedo on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for nisedo on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>
