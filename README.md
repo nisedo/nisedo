@@ -1,12 +1,10 @@
-<h2> Hi there, I'm nisedo 👋</h2>
+<h2>nisedo</h2>
 
 
 [![nisedo Linktree](https://img.shields.io/badge/all%20my%20socials%20%E2%86%92-Linktree-brightgreen?style=for-the-badge&logo=&logoColor=white)](https://linktr.ee/nisedo)
 
 
-I'm a Smart Contract Auditor from France 🇫🇷
-
-Securing web3 one smart contract at a time 📝
+**Solidity Smart Contract Auditor / Engineer**
 
 
 
