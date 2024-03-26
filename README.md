@@ -21,7 +21,7 @@
 | [Damn Vulnerable DeFi](https://www.damnvulnerabledefi.xyz/) | 12 / 15 |
 | [Mr Steal Yo Crypto](https://mrstealyocrypto.xyz/) | 3 / 20 |
 | [Node Guardians](https://nodeguardians.io/) (Solidity quests) | [12](https://nodeguardians.io/character/nisedo) |
-| [Codewars](https://www.codewars.com/) (Solidity Kata) | [18 / 20](https://www.codewars.com/users/nisedo) |
+| [Codewars](https://www.codewars.com/) (Solidity Kata) | [20 / 20](https://www.codewars.com/users/nisedo) |
 | [War Room Games EthCC6](https://x.com/TenderlyApp/status/1674411623744962560?s=20) | Ranked 4 / 16 |
 
 # Secureum RACEs 📝
