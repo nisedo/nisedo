@@ -16,7 +16,7 @@
 # CTFs 🚩
 | CTF                        | Solved |
 |----------------------------|:----------------------------:|
-| [ONLYPWNER](https://onlypwner.xyz/) | 8 / 15 |
+| [ONLYPWNER](https://onlypwner.xyz/) | [9 / 15](https://onlypwner.xyz/leaderboard) |
 | [The Ethernaut](https://ethernaut.openzeppelin.com/) | 30 / 30 |
 | [Damn Vulnerable DeFi](https://www.damnvulnerabledefi.xyz/) | 12 / 15 |
 | [Mr Steal Yo Crypto](https://mrstealyocrypto.xyz/) | 3 / 20 |
