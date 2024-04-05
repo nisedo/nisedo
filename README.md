@@ -1,5 +1,5 @@
 # [nisedo](https://linktr.ee/nisedo) <br> Blockchain Security Researcher
-
+<!---
 # Audits 🕵️‍♂️
 | Protocol                   | Platform | Team                       | Report | Ranked |
 |----------------------------|--|--------------------------|:--------:|:--------:|
@@ -57,3 +57,4 @@
 # Education 🎓
 - Graduated from [Encode Expert Solidity Bootcamp](https://www.encode.club/expert-solidity-bootcamp)
 - Completed [Secureum Bootcamp](https://www.secureum.xyz/bootcamp/)
+-->
